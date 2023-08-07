@@ -1,5 +1,7 @@
 # Synthetic Data Generation in Healthcare using Generative AI
 
+[![DOI](https://zenodo.org/badge/636921950.svg)](https://zenodo.org/badge/latestdoi/636921950)
+
 ```
 This repository contains the paper summary of the research papers and book chapters referenced in our 
 research paper - Leveraging Generative AI Models for Synthetic Data Generation in Healthcare: Balancing Research and Privacy.
