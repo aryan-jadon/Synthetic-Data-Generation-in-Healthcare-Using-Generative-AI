@@ -9,18 +9,21 @@ research paper - Leveraging Generative AI Models for Synthetic Data Generation i
 
 ## Cite our Paper
 
-#### Paper Link - https://arxiv.org/abs/2305.05247 
-
 ```
-@misc{jadon2023leveraging,
-      title={Leveraging Generative AI Models for Synthetic Data Generation in Healthcare: Balancing Research and Privacy}, 
-      author={Aryan Jadon and Shashank Kumar},
-      year={2023},
-      eprint={2305.05247},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{jadon2023leveraging,
+  title={Leveraging generative ai models for synthetic data generation in healthcare: Balancing research and privacy},
+  author={Jadon, Aryan and Kumar, Shashank},
+  booktitle={2023 International Conference on Smart Applications, Communications and Networking (SmartNets)},
+  pages={1--4},
+  year={2023},
+  organization={IEEE}
 }
 ```
+
+### Paper Links
+1. https://ieeexplore.ieee.org/abstract/document/10215825
+2. https://arxiv.org/abs/2305.05247 
+
 
 ### Research Papers Summary
 | Paper                                                                                                                                                                                                                            | Paper Authors                                                                                                                        | Paper Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
